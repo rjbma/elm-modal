@@ -13,7 +13,7 @@ inside a modal dialog.
 Please note that this library only makes sure that all modals have similar
 markup with consistent CSS classes; it's still up to you to provide the CSS
 to actually make the modal appear and disappear. However, you can use
-[this](modal.css) as a starting point!
+[this](https://github.com/rjbma/elm-modal/blob/master/src/modal.css) as a starting point!
 
 # View
 @docs view
