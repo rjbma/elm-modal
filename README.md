@@ -19,5 +19,8 @@ to actually make the modal appear and disappear. However, you can use
     - a list of properties (for the top-level element)
     - a list of children elements (the content)
 
+# Example
+You can check (this)[https://ellie-app.com/43f723B8fpka1/3] out. It showcases some message dialogs and a side menu.
+
 # Usage
-See the Elm package documentation
+[See the Elm package documentation](http://package.elm-lang.org/packages/rjbma/elm-modal/1.0.0/Modal)
